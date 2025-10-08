@@ -52,6 +52,6 @@
     document.addEventListener('DOMContentLoaded',()=>{
       console.log('Siten loaded - ready to edit!');
     });
-  </script>
+  </script>  
 </body>
 </html>
