@@ -7,6 +7,7 @@
     content="width=device-width,initial-scale=1" />
   <title>My GtiHub Pages Site</title>
   <link rel="stylesheet"
+    <style>
     :root{--accent:#0066cc;--bg:#f8fafc}
     *{box-sizing:border-box}
     body{font-family:Inter, system-ui, Arial,
@@ -20,6 +21,7 @@
     .btn{display:inline-block;margin-top:1rem;padding:0.6rem
       1rem;background:var(--accent);colorwhite;text-decoration:none;border-radius:6px}
     footer{padding:1rem;text-align:center;color:#666}
+</style>
       href="styles.css">
 </heah>
 <body>
