@@ -3,7 +3,7 @@
 <html lang="en">
 <heah>
   <meta charset="utf-8" />
-  <meta name="viewport"
+  <meta name="viewport" 
     content="width=device-width,initial-scale=1" />
   <title>My GtiHub Pages Site</title>
   <link rel="stylesheet"
