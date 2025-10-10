@@ -26,14 +26,13 @@
 </heah>
 <body>
       <header class="site-header">
-        <h1>Welcome toMy Website</h1>
+        <h1>Welcome to My Website</h1>
         <p>Deployed with <strong>GitHub Pages</strong> for Big Kahmoh</p>
       </header>
 
   <main>
     <section class="hero">
-      <img src="images/download (1).jpg"
-        alt="Hero image">
+      <img src="images/download (1).jpg" alt="Hero image">
       <h2>Hello-I'm building on GitHub</h2>
             <p>This is asimple starter site. Edit <code>index.html</code> and push to GitHub to update. </p>
       <a class="btn"
