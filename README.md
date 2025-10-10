@@ -32,7 +32,7 @@
 
   <main>
     <section class="hero">
-      <img src="images/hero.jpg"
+      <img src="images/download.png"
         alt="Hero image" />
       <h2>Hello-I'm building on GitHub</h2>
             <p>This is asimple starter site. Edit <code>index.html</code> and push to GitHub to update. </p>
@@ -40,7 +40,7 @@
        href="#contact">KAHMOH</a>
     </section>
     <section id="contact">
-      <h3>Contact</h3>
+      
       <p>Email:<a 
       href="mailto:ndumnankam@gmail.com">ndumnankam@gmail.com</a></p>
     </section>
