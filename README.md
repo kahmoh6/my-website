@@ -32,7 +32,7 @@
 
   <main>
     <section class="hero">
-      <img src="images/download (1).jpg" alt="Hero image">
+      <img src="download (1).jpg" alt="Hero image">
       <h2>Hello-I'm building on GitHub</h2>
             <p>This is asimple starter site. Edit <code>index.html</code> and push to GitHub to update. </p>
       <a class="btn"
